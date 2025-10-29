@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/DM_Linux_Drive.dir/src/multicontrol.cpp.o  -o DM_Linux_Drive  -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/motordriver.dir/src/multicontrol.cpp.o  -o motordriver 
