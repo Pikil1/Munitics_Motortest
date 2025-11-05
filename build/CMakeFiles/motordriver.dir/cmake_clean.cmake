@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/motordriver.dir/src/multicontrol.cpp.o"
+  "CMakeFiles/motordriver.dir/src/multicontrol.cpp.o.d"
   "motordriver"
   "motordriver.pdb"
 )
